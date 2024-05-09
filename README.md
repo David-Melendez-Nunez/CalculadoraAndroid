@@ -18,6 +18,7 @@
         <li>División de dos números.</li>
         <li>Admite valores decimales en las operaciones.</li>
     </ul>
+    <hr>
 
 Autor 
 WizDave
