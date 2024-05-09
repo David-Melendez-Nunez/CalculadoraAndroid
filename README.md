@@ -21,11 +21,5 @@
         <li>Admite valores decimales en las operaciones.</li>
     </ul>
 
-<h2>5. Pruebas</h2>
-    <p>Se han realizado pruebas exhaustivas en la calculadora para garantizar su correcto funcionamiento. Se han probado todos los botones y operaciones disponibles, verificando que los resultados sean precisos y consistentes. Los resultados de las pruebas han sido satisfactorios, sin embargo, se continuará realizando pruebas adicionales para asegurar la calidad del producto.</p>
-
-<h2>6. Conclusión</h2>
-    <p>En conclusión, el desarrollo de la calculadora Android ha sido exitoso, proporcionando una herramienta funcional y fácil de usar para realizar operaciones matemáticas básicas en dispositivos móviles. Se seguirá trabajando en mejoras y actualizaciones futuras para agregar nuevas funcionalidades y mejorar la experiencia del usuario.</p>
-</body>
 Autor 
 WizDave
